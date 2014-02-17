@@ -1,0 +1,2 @@
+要設定virttest的path為環境變數VIRTTEST_PATH
+apt-get install autotest
